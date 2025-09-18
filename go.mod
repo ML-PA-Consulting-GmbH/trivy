@@ -1,4 +1,4 @@
-module github.com/aquasecurity/trivy
+module github.com/ML-PA-Consulting-GmbH/trivy
 
 go 1.24
 
